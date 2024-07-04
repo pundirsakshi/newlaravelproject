@@ -6,3 +6,4 @@ window.Alpine = Alpine;
 
 Alpine.start();
 console.log("hello");
+console.log("hello sakshi");
